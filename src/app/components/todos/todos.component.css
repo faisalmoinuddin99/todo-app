@@ -1,0 +1,8 @@
+.completedTodo {
+  color: darkgrey;
+  text-decoration: line-through;
+}
+
+.icon-trash {
+  cursor: pointer;
+}
